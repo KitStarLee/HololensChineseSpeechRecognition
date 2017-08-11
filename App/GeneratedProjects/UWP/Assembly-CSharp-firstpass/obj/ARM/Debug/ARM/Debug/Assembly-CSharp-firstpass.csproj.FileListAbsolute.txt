@@ -1,0 +1,17 @@
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\ARM\Debug\Assembly-CSharp-firstpass.dll
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\ARM\Debug\Assembly-CSharp-firstpass.pdb
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\ARM\Debug\Assembly-CSharp-firstpass.pri
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass.dll
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass.pdb
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\priconfig.xml
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\priconfig.xml.intermediate
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\layout.resfiles
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\layout.resfiles.intermediate
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\resources.resfiles
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\resources.resfiles.intermediate
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\pri.resfiles
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\pri.resfiles.intermediate
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\qualifiers.txt
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\qualifiers.txt.intermediate
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\MultipleQualifiersPerDimensionFound.txt

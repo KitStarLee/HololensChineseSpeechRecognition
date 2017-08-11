@@ -1,0 +1,4 @@
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+D:\VRProject\HololensTest\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+D:\VRProject\HololensTest\App\HololensTest\HololensTest.csproj;x86

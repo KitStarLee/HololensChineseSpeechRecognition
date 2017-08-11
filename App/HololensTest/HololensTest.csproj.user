@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <Source>C:\Users\likai\Desktop\222.png</Source>
+    <SmallTileSource>C:\Users\likai\Desktop\222.png</SmallTileSource>
+    <MediumTileSource>C:\Users\likai\Desktop\222.png</MediumTileSource>
+    <WideTileSource>C:\Users\likai\Desktop\222.png</WideTileSource>
+    <LargeTileSource>C:\Users\likai\Desktop\222.png</LargeTileSource>
+    <AppIconSource>C:\Users\likai\Desktop\222.png</AppIconSource>
+    <SplashScreenSource>C:\Users\likai\Desktop\222.png</SplashScreenSource>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>

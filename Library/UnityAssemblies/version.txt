@@ -1,0 +1,12 @@
+5.6.0f3:3.1.0.0
+WSAPlayer
+F:/Program Files/Unity5.6.0/Editor/Data/PlaybackEngines/MetroSupport/Tools/UnityEngine.dll
+F:/Program Files/Unity5.6.0/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+F:/Program Files/Unity5.6.0/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+F:/Program Files/Unity5.6.0/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+F:/Program Files/Unity5.6.0/Editor/Data/UnityExtensions/Unity/TestRunner/nunit.framework.dll
+F:/Program Files/Unity5.6.0/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+F:/Program Files/Unity5.6.0/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+F:/Program Files/Unity5.6.0/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+F:/Program Files/Unity5.6.0/Editor/Data/Managed/UnityEditor.dll
+F:/Program Files/Unity5.6.0/Editor/Data/Managed/Mono.Cecil.dll
